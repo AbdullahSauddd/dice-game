@@ -1,6 +1,6 @@
-# Dice Game
+# Dice Game 🎲
 
-A simple interactive dice game built with HTML, CSS, and JavaScript.
+A fun and interactive two-player dice rolling game. Roll the dice and see who wins! Built with vanilla HTML, CSS, and JavaScript.
 
 ## Features
 - Roll two dice simultaneously
